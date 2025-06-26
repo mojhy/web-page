@@ -1,4 +1,15 @@
-body {
+.hero-image {
+    background-image: url("images/harrison web banner.png");
+    height: 352px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
-    color: blue;
+.hero-text {
+    color: whitesmoke;
+    position: absolute;
+    text-align: center;
+    top: 280px;
+    width: 100%;
 }
